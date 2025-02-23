@@ -1,0 +1,17 @@
+# Maven spezifische Dateien
+target/
+*.log
+*.class
+*.jar
+*.war
+*.ear
+
+# Eclipse spezifisch
+.project
+.classpath
+.settings/
+
+# IntelliJ spezifisch
+.idea/
+*.iml
+*.iws
