@@ -1,0 +1,1 @@
+Lösungsvorschlag für das Projekt Mandelbrot
